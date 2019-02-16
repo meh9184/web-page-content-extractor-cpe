@@ -3,7 +3,7 @@
 <br><br>
 
 ### Google
-<kbd align='center'>
+<kbd align='center' width='70%'>
   <img src='./screenshot/page1.png' width='70%' height='70%'>
 </kbd>
 <br><br>
