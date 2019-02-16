@@ -3,7 +3,9 @@
 <br><br>
 
 ### Google
-<img src='./screenshot/page1.png' width='70%' height='70%'>
+<kbd>
+  <img src='./screenshot/page1.png' width='70%' height='70%'>
+</kbd>
 <br><br>
 
 ### Bing
