@@ -12,7 +12,7 @@
 <kbd align='center'>
 <img src='./screenshot/page27.png' width='70%' height='70%'>
   </kbd>
-<br><br>
+<br>
 
 ### Twiter
 <kbd align='center'>
