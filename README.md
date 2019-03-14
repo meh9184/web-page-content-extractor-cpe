@@ -7,16 +7,17 @@
 <kbd align='center'>
   <img src='./screenshot/page1.png' width='70%' height='70%'>
 </kbd>
-<hr>
 <br><br>
 
 ### Bing
+<hr>
 <kbd align='center'>
   <img src='./screenshot/page27.png' width='70%' height='70%'>
 </kbd>
 <br><br>
 
 ### Twiter
+<hr>
 <kbd align='center'>
   <img src='./screenshot/page23.png' width='70%' height='70%'>
 </kbd>
