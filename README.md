@@ -4,7 +4,7 @@
 
 + Main Elements : Yellow <br>
 + Menu Elements : Red <br>
-+ Center Elements : Blue <br>
++ Center Point Elements : Blue <br>
 
 
 ### Google
